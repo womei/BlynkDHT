@@ -42,7 +42,7 @@
 char auth[] = "XXXX";
 
 char ssid[] = "SSID";
-char pass[] = "Junius6167";
+char pass[] = "PASSWORD";
 
 #define DHTPIN D4          // What digital pin we're connected to
 
